@@ -1,4 +1,4 @@
-# ⚡ Grokked — Vibe Code with High Comprehension
+# Grokked — Learn what you Vibe Code 
 
 > **Winner Concept for Google Gemini API Hackathon:**
 > Students vibe code apps with AI, but to prevent *comprehension debt*, they must prove they understand each step through a verified 5-question code comprehension quiz before the next step unlocks.
